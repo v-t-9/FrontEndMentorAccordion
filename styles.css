@@ -80,9 +80,7 @@ body{
     justify-content: space-between;
     margin: 0;
     background-color: var(--light-pink);
-    position: relative;
-    /*width: 100%;*/
-    
+    position: relative;  
 }
 main{
     margin: 40px;
@@ -90,7 +88,7 @@ main{
     position: absolute;
     top:100px;
     border-radius: 10px;
-    max-width: 585px;
+    max-width: 590px;
 }
 .desktop-background{
   display: none;
@@ -107,10 +105,12 @@ h3{
 .title{
     color: var(--dark-purple);
     margin: 0;
+    width: 100%;
 }
-p{
+.ans{
     color: var(--grayish-purple);
     font-size: var(--p-font-size);
+    
 }
 .main-icon-and-title{
     display: flex;
@@ -129,11 +129,9 @@ p{
     justify-content: space-between;
     align-items: center;
     margin: 20px 0;
-    padding: 20px 0;
+    padding: 20px 5px;
 }
-.icon{
-  margin: 0 10px;
-}
+
 .title-and-icon .title:hover{
   color: var(--purple);
   cursor:pointer;
@@ -163,11 +161,12 @@ p{
   main{
     top:15px;
   }
- 
 } 
 
 @media only screen and (min-width: 1440px) {
   main{
     top:150px;
   }
+  
+
 }  
