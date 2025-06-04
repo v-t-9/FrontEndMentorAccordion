@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/v-t-9/FrontEndMentorAccordion)
-- Live Site URL: [Add live site URL here](https://v-t-9.github.io/FrontEndMentorAccordion/)
+- Solution URL: [https://github.com/v-t-9/FrontEndMentorAccordion]
+- Live Site URL: [https://v-t-9.github.io/FrontEndMentorAccordion/]
 
 ## My process
 
