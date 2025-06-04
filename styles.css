@@ -88,7 +88,7 @@ main{
     position: absolute;
     top:100px;
     border-radius: 10px;
-    max-width: 590px;
+    max-width: fit-content;
 }
 .desktop-background{
   display: none;
@@ -105,11 +105,12 @@ h3{
 .title{
     color: var(--dark-purple);
     margin: 0;
-    width: 100%;
+    max-width: 585px;
 }
 .ans{
     color: var(--grayish-purple);
     font-size: var(--p-font-size);
+    max-width: 585px;
     
 }
 .main-icon-and-title{
@@ -130,6 +131,7 @@ h3{
     align-items: center;
     margin: 20px 0;
     padding: 20px 5px;
+    max-width: 585px;
 }
 
 .title-and-icon .title:hover{
@@ -157,12 +159,18 @@ h3{
   }
 }
 
+@media only screen and (min-width: 650px) {
+  .title-and-icon{
+    width: 585px;
+  };
+}
+
+
 @media only screen and (min-width:377px) and (max-width: 1024px){
   main{
     top:15px;
   }
 } 
-
 @media only screen and (min-width: 1440px) {
   main{
     top:150px;

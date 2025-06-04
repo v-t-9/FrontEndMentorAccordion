@@ -54,8 +54,8 @@ I learned about keyboard events.
 
 ## Author
 
-- Website - [Add your name here](https://www.instagram.com/v__t__9)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/v_t_9)
+- Website - [@v__t__9](https://www.instagram.com/v__t__9)
+- Frontend Mentor - [@v-t-9](https://www.frontendmentor.io/profile/v-t-9)
+- Twitter - [@v_t_9](https://www.twitter.com/v_t_9)
 
 
